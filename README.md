@@ -6,13 +6,15 @@ Unofficial PAYDAY 2: Crimewave Edition build planner and PS4 progress tracker fo
 
 **v3.0.3**
 
-### Download
+## Download
 
-Download the latest Android APK from the Releases page:
+### Latest release: v3.0.3
 
-**HeistBuildVault-v3.0.3.apk**
+[**⬇ Download Heist Build Vault v3.0.3 APK**](https://github.com/kaflowersjr-byte/heist-build-vault/releases/download/v3.0.3/HeistBuildVault-v3.0.3.apk)
 
-GitHub Releases:
+Android may warn that the app was downloaded outside Google Play. Follow Android's prompts to allow installation from your browser or file manager.
+
+**GitHub Releases:**  
 https://github.com/kaflowersjr-byte/heist-build-vault/releases/latest
 
 ## Features
