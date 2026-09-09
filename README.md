@@ -38,7 +38,7 @@ Android 8.0 or newer.
 ## Installation
 
 1. Open the latest GitHub Release.
-2. Download `HeistBuildVault-v3.0.2.apk`.
+2. Download `HeistBuildVault-v3.0.3.apk`.
 3. Open the downloaded APK.
 4. Android may ask you to allow installation from your browser or file manager.
 5. Install and launch Heist Build Vault.
